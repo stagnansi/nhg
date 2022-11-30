@@ -1,20 +1,6 @@
 @font-face {
   font-family: NeueHaasGroteskDisp Pro;
   font-style: normal;
-  font-weight: 400;
-  src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-45Lt.otf) format('opentype')
-}
-
-@font-face {
-  font-family: NeueHaasGroteskDisp Pro;
-  font-style: italic;
-  font-weight: 400;
-  src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-46LtIt.otf) format('opentype')
-}
-
-@font-face {
-  font-family: NeueHaasGroteskDisp Pro;
-  font-style: normal;
   font-weight: 500;
   src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-55Rg.otf) format('opentype')
 }
