@@ -1,48 +1,6 @@
 @font-face {
   font-family: NeueHaasGroteskDisp Pro;
   font-style: normal;
-  font-weight: 100;
-  src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-15UltTh.otf) format('opentype')
-}
-
-@font-face {
-  font-family: NeueHaasGroteskDisp Pro;
-  font-style: italic;
-  font-weight: 100;
-  src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-16UltThIt.otf) format('opentype')
-}
-
-@font-face {
-  font-family: NeueHaasGroteskDisp Pro;
-  font-style: normal;
-  font-weight: 200;
-  src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-25Th.otf) format('opentype')
-}
-
-@font-face {
-  font-family: NeueHaasGroteskDisp Pro;
-  font-style: italic;
-  font-weight: 200;
-  src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-26ThIt.otf) format('opentype')
-}
-
-@font-face {
-  font-family: NeueHaasGroteskDisp Pro;
-  font-style: normal;
-  font-weight: 300;
-  src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-35XLt.otf) format('opentype')
-}
-
-@font-face {
-  font-family: NeueHaasGroteskDisp Pro;
-  font-style: italic;
-  font-weight: 300;
-  src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-36XLtIt.otf) format('opentype')
-}
-
-@font-face {
-  font-family: NeueHaasGroteskDisp Pro;
-  font-style: normal;
   font-weight: 400;
   src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-45Lt.otf) format('opentype')
 }
