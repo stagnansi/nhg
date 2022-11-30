@@ -1,55 +1,55 @@
 @font-face {
-  font-family: NeueHaasGroteskDisp Pro;
+  font-family: Neue Haas Grotesk;
   font-style: normal;
   font-weight: 600;
-  src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-65Md.otf) format('opentype')
+  src: local('Neue Haas Grotesk'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskTXPro-65Md.woff) format('woff')
 }
 
 @font-face {
-  font-family: NeueHaasGroteskDisp Pro;
+  font-family: Neue Haas Grotesk;
   font-style: italic;
   font-weight: 600;
-  src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-66MdIt.otf) format('opentype')
+  src: local('Neue Haas Grotesk'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskTXPro-66MdIt.woff) format('woff')
 }
 
 @font-face {
-  font-family: NeueHaasGroteskDisp Pro;
+  font-family: Neue Haas Grotesk;
   font-style: normal;
   font-weight: 700;
-  src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-75Bd.otf) format('opentype')
+  src: local('Neue Haas Grotesk'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskTXPro-75Bd.woff) format('woff')
 }
 
 @font-face {
-  font-family: NeueHaasGroteskDisp Pro;
+  font-family: Neue Haas Grotesk;
   font-style: italic;
   font-weight: 700;
-  src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-76BdIt.otf) format('opentype')
+  src: local('Neue Haas Grotesk'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskTXPro-76BdIt.woff) format('woff')
 }
 
 @font-face {
-  font-family: NeueHaasGroteskDisp Pro;
+  font-family: Neue Haas Grotesk;
   font-style: normal;
   font-weight: 800;
-  src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-95Blk.otf) format('opentype')
+  src: local('Neue Haas Grotesk'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-95Blk.woff) format('woff')
 }
 
 @font-face {
-  font-family: NeueHaasGroteskDisp Pro;
+  font-family: Neue Haas Grotesk;
   font-style: italic;
   font-weight: 800;
-  src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-96BlkIt.otf) format('opentype')
+  src: local('Neue Haas Grotesk'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-96BlkIt.woff) format('woff')
 }
 
 @font-face {
-  font-family: NeueHaasGroteskDisp Pro;
+  font-family: Neue Haas Grotesk;
   font-style: normal;
   font-weight: 900;
-  src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-95Blk.otf) format('opentype')
+  src: local('Neue Haas Grotesk'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-95Blk.woff) format('woff')
 }
 
 @font-face {
-  font-family: NeueHaasGroteskDisp Pro;
+  font-family: Neue Haas Grotesk;
   font-style: italic;
   font-weight: 900;
-  src: local('NeueHaasGroteskDisp Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-96BlkIt.otf) format('opentype')
+  src: local('Neue Haas Grotesk'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-96BlkIt.woff) format('woff')
 }
