@@ -1,0 +1,126 @@
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: normal;
+  font-weight: 100;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-15UltTh.otf) format('otf')
+}
+
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: italic;
+  font-weight: 100;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-16UltThIt.otf) format('otf')
+}
+
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: normal;
+  font-weight: 200;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-25Th.otf) format('otf')
+}
+
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: italic;
+  font-weight: 200;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-26ThIt.otf) format('otf')
+}
+
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: normal;
+  font-weight: 300;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-35XLt.otf) format('otf')
+}
+
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: italic;
+  font-weight: 300;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-36XLtIt.otf) format('otf')
+}
+
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-45Lt.otf) format('otf')
+}
+
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: italic;
+  font-weight: 400;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-46LtIt.otf) format('otf')
+}
+
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: normal;
+  font-weight: 500;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-55Rg.otf) format('otf')
+}
+
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: italic;
+  font-weight: 500;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-56It.otf) format('otf')
+}
+
+
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: normal;
+  font-weight: 600;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-65Md.otf) format('otf')
+}
+
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: italic;
+  font-weight: 600;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-66MdIt.otf) format('otf')
+}
+
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: normal;
+  font-weight: 700;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-75Bd.otf) format('otf')
+}
+
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: italic;
+  font-weight: 700;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-76BdIt.otf) format('otf')
+}
+
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: normal;
+  font-weight: 800;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-95Blk.otf) format('otf')
+}
+
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: italic;
+  font-weight: 800;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-96BlkIt.otf) format('otf')
+}
+
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: normal;
+  font-weight: 900;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-95Blk.otf) format('otf')
+}
+
+@font-face {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: italic;
+  font-weight: 900;
+  src: local('Neue Haas Grotesk Display Pro'),url(https://raw.githubusercontent.com/stagnansi/nhg/main/NHaasGroteskDSPro-96BlkIt.otf) format('otf')
+}
