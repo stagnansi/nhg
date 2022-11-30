@@ -1,5 +1,5 @@
 # Notes
-It's Neue Haas Grotesk Display Pro font.
+It's Neue Haas Grotesk Pro font, but it's start from Medium (600) until Black (800-900), Italic included.
 
 # How to use
 To embed the fonts into a webpage, copy this code into the head of your HTML document.
@@ -19,5 +19,5 @@ Or, import:
 # Specify in CSS
 Use the following CSS rules to specify these families.
 ````css
-font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+font-family: 'Neue Haas Grotesk Pro', sans-serif;
 ````
