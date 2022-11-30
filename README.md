@@ -19,5 +19,5 @@ Or, import:
 # Specify in CSS
 Use the following CSS rules to specify these families.
 ````css
-font-family: 'Neue Haas Grotesk Pro', sans-serif;
+font-family: 'Neue Haas Grotesk', sans-serif;
 ````
